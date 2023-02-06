@@ -55,7 +55,7 @@ In addition to attaining at least 26 points, you must also complete one or more 
 
 ### Project rubric
 
-In addition to the specific requirements, you should aim to score _Proficient_ on all of the criteria listed below. Each rating on the scale, from Developing to Exemplary, is worth 1 point.
+In addition to the specific requirements, you should aim to score _Proficient_ on all of the criteria listed below. You can get between 1 to 3 points for each rubric. Each scale on a rubric is worth 1 point more than the 1 before it.
 
 #### Code quality
 
