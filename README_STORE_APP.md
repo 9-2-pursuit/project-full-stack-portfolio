@@ -1,6 +1,6 @@
 # Full Stack Store App
 
-This application should adhere to the guidelines and rubric presented in the [Full Stack Personal Portfolio Project]([https://github.com/pursuit-curriculum/project-full-stack-portfolio](https://github.com/9-2-pursuit/project-full-stack-portfolio/)
+This application should adhere to the guidelines and rubric presented in the [Full Stack Personal Portfolio Project]([https://github.com/pursuit-curriculum/project-full-stack-portfolio](https://github.com/9-2-pursuit/project-full-stack-portfolio/))
 
 This readme is an example of how one could implement all the features required for the project when the theme is an online store.
 
