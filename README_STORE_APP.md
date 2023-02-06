@@ -110,8 +110,6 @@ Or anything else that makes sense for your store.
 
 ## Deployment Details
 
-[Use this template](https://github.com/joinpursuit/pern-final-project-template) - deploy the boilerplate app as the first thing you do.
-
 Once the apps are deployed and working as expected:
 
 - Submit your link to Canvas immediately
